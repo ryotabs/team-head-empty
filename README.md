@@ -8,7 +8,9 @@ Final project for ICS438
 ## Requirements
 * [Jupyter Notebook](https://jupyter.org/install#getting-started-with-the-classic-jupyter-notebook)
 * Pandas
-* pyspark
+* PySpark
+* matplotlib
+* numpy
 
 ## Alternative
 * You can install docker and [all-spark-notebook](https://hub.docker.com/r/jupyter/all-spark-notebook)
