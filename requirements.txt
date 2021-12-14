@@ -3,3 +3,5 @@ pandas
 pyspark
 matplotlib
 numpy
+wordcloud
+nltk
