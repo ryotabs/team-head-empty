@@ -8,8 +8,9 @@ The analysis is in general-analysis.ipynb. We used Python with the pandas librar
 * Download [YouTube Trending Video Dataset (updated daily)](https://www.kaggle.com/rsrishav/youtube-trending-video-dataset)
 * Extract the above ZIP file into `./data` folder
 
-## Alternative
-* You can install docker and [all-spark-notebook](https://hub.docker.com/r/jupyter/all-spark-notebook)
+## Requirements
+* Install the necessary libraries in requirements.txt
+* Alternatively, you can install docker and [all-spark-notebook](https://hub.docker.com/r/jupyter/all-spark-notebook)
 
 ## Set-up
 * Clone the repo onto your local machine
