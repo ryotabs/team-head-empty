@@ -17,7 +17,7 @@ The analysis is in general-analysis.ipynb. We used Python with the pandas librar
 * If you want to use Dockers
   * Install [Docker](https://docs.docker.com/get-docker/) if you do not have it installed on your machine already.
   * Change directory to where you clone the repo onto your local machine.
-  * While the Docker desktop app is RUNNING, execute this command in your terminal: `docker run --rm -p 4040:4040 -p 8888:8888 -v $(pwd):/home/jovyan/work jupyter/all-spark-notebook`
+  * While the Docker desktop app is RUNNING, execute this command in your terminal: `docker run --rm -p 4040:4040 -p 8888:8888 -v $(pwd):/home/jovyan/work angcylau/team-head-empty`
 * If not
   * Ensure Python (or Anaconda) is installed on Your system
   * Open a terminal in the cloned project directory
