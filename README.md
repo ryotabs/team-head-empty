@@ -8,16 +8,13 @@ The analysis is in general-analysis.ipynb. We used Python with the pandas librar
 * Download [YouTube Trending Video Dataset (updated daily)](https://www.kaggle.com/rsrishav/youtube-trending-video-dataset)
 * Extract the above ZIP file into `./data` folder
 
-## Requirements
-* Install the necessary libraries in requirements.txt
-* Alternatively, you can install docker and [all-spark-notebook](https://hub.docker.com/r/jupyter/all-spark-notebook)
-
 ## Set-up
 * Clone the repo onto your local machine
-* If you want to use Dockers
+* If you want to use Docker
   * Install [Docker](https://docs.docker.com/get-docker/) if you do not have it installed on your machine already.
   * Change directory to where you clone the repo onto your local machine.
   * While the Docker desktop app is RUNNING, execute this command in your terminal: `docker run --rm -p 4040:4040 -p 8888:8888 -v $(pwd):/home/jovyan/work angcylau/team-head-empty`
+  * The packages and libraries located inside 'requirements.txt' should be installed running the above command.
 * If not
   * Ensure Python (or Anaconda) is installed on Your system
   * Open a terminal in the cloned project directory
