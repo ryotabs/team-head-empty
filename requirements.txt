@@ -1,7 +1,7 @@
 notebook
 pandas
 pyspark
-matplotlib
+matplotlib >= 3.5
 numpy
 wordcloud
 tensorflow
