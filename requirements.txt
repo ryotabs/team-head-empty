@@ -4,4 +4,4 @@ pyspark
 matplotlib
 numpy
 wordcloud
-nltk
+tensorflow

@@ -11,6 +11,7 @@ Final project for ICS438
 * PySpark
 * matplotlib
 * numpy
+* wordcloud
 
 ## Alternative
 * You can install docker and [all-spark-notebook](https://hub.docker.com/r/jupyter/all-spark-notebook)
